@@ -1,4 +1,4 @@
-var company = Dictionary<String, Array<String>>()
+var company: [String: [String]] = [:]
 displayUsage()
 
 while true {
